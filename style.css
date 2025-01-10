@@ -1,7 +1,7 @@
 body {
-  font-family: "Helvetica";
-  background-color: #f6f8fa;
-  color: #24292f;
+  font-family: "Enigmatic Unicode";
+  background-color: #fff5dc;
+  color: #052b59;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -24,7 +24,7 @@ body {
 }
 
 .header__subtitle {
-  color: #24292f;
+  color: #052b59;
   font-size: 16px;
   line-height: 1.4;
   margin: 0;
